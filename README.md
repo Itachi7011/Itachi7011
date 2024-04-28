@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🤝 I’m looking for help with AI and ML <br>🌱 I’m currently learning ONNX ( Open Neural Network Exchange ) <br>
+🔭 I’m currently working on MERN Stack<br>🤝 I’m looking for help with AI and ML <br> 
 
 
 ## 🌐 Socials:
