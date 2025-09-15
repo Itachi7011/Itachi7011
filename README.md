@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🤝 I’m looking for help with AI and ML <br> 
+🔭 <strong>Currently Working On</strong><br>
+🚀 Building multiple <strong>SaaS projects</strong> using the <strong>MERN Stack</strong>, including:<br>
+- 🧑‍💻 <strong>Authentication & Login Platform</strong> (as a service)<br>
+- 🏥 <strong>Healthcare SaaS</strong> for hospitals and medical clinics<br><br>
+
+🤝 <strong>Looking For Collaborators</strong><br>
+🧠 Interested in partnering on <strong>AI/ML-focused projects</strong> — open to contributions and collaborations!<br>
+
 
 
 ## 🌐 Socials:
