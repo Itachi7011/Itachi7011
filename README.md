@@ -1,105 +1,152 @@
-# 💫 About Me:
+# 💫 About Me
 
-🧑‍💻 <strong>Full-Stack Developer</strong> focused on building scalable, production-oriented web systems with <strong>React, Next.js, Node.js, TypeScript, Python & PostgreSQL</strong>.
+🧑‍💻 Full-Stack Developer focused on building scalable web applications and SaaS products.
 
-🏗️ I enjoy working beyond just application development — particularly <strong>system design, software architecture, database design, distributed systems, performance optimization, and scalable SaaS architecture</strong>.
+🚀 Currently building:
+- 🏗️ **Queueva** — Multi-tenant appointment & workflow SaaS
+- ⚙️ **Scalable Full-Stack Systems** — Next.js, Node.js, PostgreSQL, Redis, queues & microservices
+- 🤖 **AI-powered applications** — LLM integrations, automation & intelligent workflows
 
-🔭 <strong>Currently Working On</strong><br>
-- 🏗️ <strong>Queueva</strong> — Multi-tenant SaaS for appointments, workflows, payments & automated notifications
-- ⚙️ <strong>Production-Oriented Systems</strong> — APIs, background workers, Redis, BullMQ, microservices, Docker & event-driven workflows
-- 🤖 <strong>AI-Powered Applications</strong> — LLM integrations, AI workflows, automation & intelligent developer tools
+🧠 Interested in:
+**System Design · Distributed Systems · Database Architecture · Performance Optimization · AI Engineering**
 
-🧠 <strong>Engineering Interests</strong><br>
-System Design • Distributed Systems • Database Design • Scalability • Performance Optimization • Caching • Microservices • Event-Driven Architecture • AI/LLM Systems
-
-🤝 <strong>Open Source</strong><br>
-Contributing to open-source projects and looking to collaborate on interesting <strong>AI, developer tooling, SaaS & backend infrastructure</strong> projects.
+🤝 Open to collaborating on interesting **open-source, AI and full-stack projects**.
 
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam7011320) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-yadav-a74793283) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sam7011320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivam7011320) 
 
-# 💻 Tech Stack:
+## 🧠 Engineering Focus
 
-### 🧑‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🏗️ **System Design** — scalability, availability, caching, load balancing & distributed systems
+- 🗄️ **Database Design** — PostgreSQL, MongoDB, indexing, transactions & query optimization
+- ⚡ **Performance** — Redis, caching, queues, background jobs & API optimization
+- 🔄 **Architecture** — modular monoliths, microservices & event-driven systems
+- 🔐 **Backend Engineering** — authentication, RBAC, REST APIs, GraphQL & webhooks
+- 🤖 **AI Engineering** — LLM APIs, AI workflows & application integration
+  
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-%23443E38.svg?style=for-the-badge&logo=react&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+## 🚀 Featured Projects
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-%23000000.svg?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### 🏗️ Queueva
+**Multi-tenant appointment & workflow SaaS**
 
-### 🗄️ Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Stripe`
 
-### 🏗️ Architecture & System Design
-- 🧩 Monolith & Microservices Architecture
-- 🏢 Multi-Tenant SaaS Architecture
-- 🔄 Event-Driven & Asynchronous Systems
-- 📬 Message Queues & Background Workers
-- ⚡ Caching & Cache Invalidation
-- 📈 Horizontal Scaling & Load Balancing
-- 🔁 Idempotency, Retries & Fault Tolerance
-- 🌐 REST APIs, Webhooks & Real-Time Systems
-- 🔐 Authentication, Authorization & Security
-- 🗃️ Database Modeling & Schema Design
-- 📊 Database Indexing & Query Optimization
-- 🔀 Distributed Systems & Consistency
-- 🚦 Rate Limiting & Concurrency Control
-- 💾 Data Modeling, Transactions & Pagination
+Multi-tenant architecture, authentication, RBAC, recurring bookings, automated notifications, payments and scalable background processing.
+
+### ⚙️ Scalable Full-Stack Systems
+
+Building production-oriented systems using:
+
+`Node.js` `Next.js` `PostgreSQL` `Redis` `BullMQ` `Docker` `Microservices`
+
+Focused on system design, database architecture, caching, queues, performance optimization and reliable backend workflows.
+
+### 🤖 AI Engineering
+
+Building AI-powered application features using:
+
+`OpenAI` `Anthropic` `Gemini` `Python` `FastAPI`
+
+Focused on practical LLM integration, automation and intelligent application workflows.
+
+
+### ⚡ Modern Full-Stack Systems
+
+Building production-style applications using:
+
+**Next.js · Node.js · PostgreSQL · MongoDB · Redis · BullMQ · Docker · Microservices**
+
+Focus areas include:
+
+- Scalable backend architecture
+- Database and API design
+- Caching and performance optimization
+- Background workers and job queues
+- Authentication and authorization
+- Event-driven workflows
+- Third-party API integrations
+- AI/LLM-powered features
+
+### 🤖 AI & Developer Tooling
+
+Exploring practical AI integration into full-stack systems using:
+
+**OpenAI · Anthropic · Gemini · Python · FastAPI**
+
+Building AI-assisted workflows, intelligent APIs and automation rather than standalone AI demos.
+
+## 💻 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Distributed Systems & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### AI & Developer Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+### 🔭 Exploring
+
+**GraphQL · Kafka · ClickHouse · Kubernetes · OpenTelemetry · gRPC · Drizzle · AI Agents**
+
 
 ### 🚀 Distributed Systems & Infrastructure
+
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-%23E74C3C.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🤖 AI / LLM Engineering
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/AI_Integrations-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🤖 AI / LLM Engineering
 
-- LLM API Integration & AI-powered SaaS
-- Prompt & Context Engineering
-- Streaming AI Responses
-- AI Tool / Function Calling
-- Background AI Processing
-- AI-assisted Automation & Workflows
+### 🤖 AI & LLM Engineering
 
-### 🧠 Performance & Optimization
-- ⚡ API & Backend Performance Optimization
-- 🗃️ Database Query & Index Optimization
-- 💾 Caching Strategies & Cache Invalidation
-- 📦 Pagination, Batching & Data Fetching
-- 🔄 Async Processing & Job Queues
-- 🌐 CDN & HTTP Caching Concepts
-- 📉 Reducing Latency & Resource Consumption
-- 📈 Throughput, Scalability & Bottleneck Analysis
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-5B5BD6?style=for-the-badge&logoColor=white)
+![AI Streaming](https://img.shields.io/badge/AI_Streaming-0EA5E9?style=for-the-badge&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-10A37F?style=for-the-badge&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-7C3AED?style=for-the-badge&logoColor=white)
 
-### ☁️ DevOps & Cloud
+
+## ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -108,17 +155,32 @@ Contributing to open-source projects and looking to collaborate on interesting <
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🧪 Testing & Developer Tools
+## 🧪 Testing & Developer Tools
 ![Playwright](https://img.shields.io/badge/Playwright-%2345BA4.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itachi7011&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi7011&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itachi7011&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itachi7011&theme=github_dark" height="180" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itachi7011&theme=github_dark" height="180" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itachi7011&theme=github_dark" height="180" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itachi7011&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time" />
+</p>
+
+## 🧊 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Itachi7011/Itachi7011/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
 </p>
 
 ## 🐍 Contribution Graph
@@ -132,6 +194,12 @@ Contributing to open-source projects and looking to collaborate on interesting <
 - 🔧 Contributing to open-source projects across **TypeScript, JavaScript, Rust, and developer tooling**
 - 🚀 Building and maintaining full-stack SaaS projects with **Next.js, Node.js, PostgreSQL, Redis, queues, and microservices**
 - 🧩 Interested in **system design, scalable architecture, database design, distributed systems, performance optimization, and AI-powered applications**
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Itachi7011/Itachi7011/master/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 ## 📈 GitHub Activity
