@@ -17,6 +17,15 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam7011320) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-yadav-a74793283) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sam7011320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivam7011320) 
 
+
+## 🤝 Open Source
+
+- 🔧 Contributing to open-source projects across **TypeScript, JavaScript, Rust, and developer tooling**
+- 🚀 Building and maintaining full-stack SaaS projects with **Next.js, Node.js, PostgreSQL, Redis, queues, and microservices**
+- 🧩 Interested in **system design, scalable architecture, database design, distributed systems, performance optimization, and AI-powered applications**
+
+  
+
 ## 🧠 Engineering Focus
 
 - 🏗️ **System Design** — scalability, availability, caching, load balancing & distributed systems
@@ -25,58 +34,8 @@
 - 🔄 **Architecture** — modular monoliths, microservices & event-driven systems
 - 🔐 **Backend Engineering** — authentication, RBAC, REST APIs, GraphQL & webhooks
 - 🤖 **AI Engineering** — LLM APIs, AI workflows & application integration
-  
-
-## 🚀 Featured Projects
-
-### 🏗️ Queueva
-**Multi-tenant appointment & workflow SaaS**
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Stripe`
-
-Multi-tenant architecture, authentication, RBAC, recurring bookings, automated notifications, payments and scalable background processing.
-
-### ⚙️ Scalable Full-Stack Systems
-
-Building production-oriented systems using:
-
-`Node.js` `Next.js` `PostgreSQL` `Redis` `BullMQ` `Docker` `Microservices`
-
-Focused on system design, database architecture, caching, queues, performance optimization and reliable backend workflows.
-
-### 🤖 AI Engineering
-
-Building AI-powered application features using:
-
-`OpenAI` `Anthropic` `Gemini` `Python` `FastAPI`
-
-Focused on practical LLM integration, automation and intelligent application workflows.
 
 
-### ⚡ Modern Full-Stack Systems
-
-Building production-style applications using:
-
-**Next.js · Node.js · PostgreSQL · MongoDB · Redis · BullMQ · Docker · Microservices**
-
-Focus areas include:
-
-- Scalable backend architecture
-- Database and API design
-- Caching and performance optimization
-- Background workers and job queues
-- Authentication and authorization
-- Event-driven workflows
-- Third-party API integrations
-- AI/LLM-powered features
-
-### 🤖 AI & Developer Tooling
-
-Exploring practical AI integration into full-stack systems using:
-
-**OpenAI · Anthropic · Gemini · Python · FastAPI**
-
-Building AI-assisted workflows, intelligent APIs and automation rather than standalone AI demos.
 
 ## 💻 Tech Stack
 
@@ -133,8 +92,6 @@ Building AI-assisted workflows, intelligent APIs and automation rather than stan
 
 ## 🤖 AI / LLM Engineering
 
-### 🤖 AI & LLM Engineering
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -146,7 +103,9 @@ Building AI-assisted workflows, intelligent APIs and automation rather than stan
 ![AI Automation](https://img.shields.io/badge/AI_Automation-7C3AED?style=for-the-badge&logoColor=white)
 
 
+
 ## ☁️ DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -155,11 +114,14 @@ Building AI-assisted workflows, intelligent APIs and automation rather than stan
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 🧪 Testing & Developer Tools
+
 ![Playwright](https://img.shields.io/badge/Playwright-%2345BA4.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## 📊 GitHub Analytics
 
@@ -177,35 +139,10 @@ Building AI-assisted workflows, intelligent APIs and automation rather than stan
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itachi7011&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time" />
 </p>
 
-## 🧊 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Itachi7011/Itachi7011/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Itachi7011/Itachi7011/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
-## 🤝 Open Source
-
-- 🔧 Contributing to open-source projects across **TypeScript, JavaScript, Rust, and developer tooling**
-- 🚀 Building and maintaining full-stack SaaS projects with **Next.js, Node.js, PostgreSQL, Redis, queues, and microservices**
-- 🧩 Interested in **system design, scalable architecture, database design, distributed systems, performance optimization, and AI-powered applications**
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Itachi7011/Itachi7011/master/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 
-## 📈 GitHub Activity
-[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itachi7011&theme=react-dark&hide_border=true&area=true)](https://github.com/Itachi7011)
 
----
-[![](https://visitcount.itsvg.in/api?id=Itachi7011&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
