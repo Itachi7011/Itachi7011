@@ -113,19 +113,29 @@ Contributing to open-source projects and looking to collaborate on interesting <
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Itachi7011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Itachi7011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi7011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Itachi7011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itachi7011&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi7011&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itachi7011&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Itachi7011/Itachi7011/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+## 🤝 Open Source
+
+- 🔧 Contributing to open-source projects across **TypeScript, JavaScript, Rust, and developer tooling**
+- 🚀 Building and maintaining full-stack SaaS projects with **Next.js, Node.js, PostgreSQL, Redis, queues, and microservices**
+- 🧩 Interested in **system design, scalable architecture, database design, distributed systems, performance optimization, and AI-powered applications**
+
+
+## 📈 GitHub Activity
+[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itachi7011&theme=react-dark&hide_border=true&area=true)](https://github.com/Itachi7011)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Itachi7011&icon=0&color=0)](https://visitcount.itsvg.in)
