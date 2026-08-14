@@ -1,11 +1,19 @@
 # 💫 About Me:
-🔭 <strong>Currently Working On</strong><br>
-🚀 Building multiple <strong>SaaS projects</strong> using the <strong>MERN Stack</strong>, including:<br>
-- 🧑‍💻 <strong>Authentication & Login Platform</strong> (as a service)<br>
-- 🏥 <strong>Healthcare SaaS</strong> for hospitals and medical clinics<br><br>
 
-🤝 <strong>Looking For Collaborators</strong><br>
-🧠 Interested in partnering on <strong>AI/ML-focused projects</strong> — open to contributions and collaborations!<br>
+🧑‍💻 <strong>Full-Stack Developer</strong> focused on building scalable, production-oriented web systems with <strong>React, Next.js, Node.js, TypeScript, Python & PostgreSQL</strong>.
+
+🏗️ I enjoy working beyond just application development — particularly <strong>system design, software architecture, database design, distributed systems, performance optimization, and scalable SaaS architecture</strong>.
+
+🔭 <strong>Currently Working On</strong><br>
+- 🏗️ <strong>Queueva</strong> — Multi-tenant SaaS for appointments, workflows, payments & automated notifications
+- ⚙️ <strong>Production-Oriented Systems</strong> — APIs, background workers, Redis, BullMQ, microservices, Docker & event-driven workflows
+- 🤖 <strong>AI-Powered Applications</strong> — LLM integrations, AI workflows, automation & intelligent developer tools
+
+🧠 <strong>Engineering Interests</strong><br>
+System Design • Distributed Systems • Database Design • Scalability • Performance Optimization • Caching • Microservices • Event-Driven Architecture • AI/LLM Systems
+
+🤝 <strong>Open Source</strong><br>
+Contributing to open-source projects and looking to collaborate on interesting <strong>AI, developer tooling, SaaS & backend infrastructure</strong> projects.
 
 
 
@@ -13,7 +21,98 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam7011320) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-yadav-a74793283) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sam7011320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivam7011320) 
 
 # 💻 Tech Stack:
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+### 🧑‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23443E38.svg?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-%23000000.svg?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🗄️ Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🏗️ Architecture & System Design
+- 🧩 Monolith & Microservices Architecture
+- 🏢 Multi-Tenant SaaS Architecture
+- 🔄 Event-Driven & Asynchronous Systems
+- 📬 Message Queues & Background Workers
+- ⚡ Caching & Cache Invalidation
+- 📈 Horizontal Scaling & Load Balancing
+- 🔁 Idempotency, Retries & Fault Tolerance
+- 🌐 REST APIs, Webhooks & Real-Time Systems
+- 🔐 Authentication, Authorization & Security
+- 🗃️ Database Modeling & Schema Design
+- 📊 Database Indexing & Query Optimization
+- 🔀 Distributed Systems & Consistency
+- 🚦 Rate Limiting & Concurrency Control
+- 💾 Data Modeling, Transactions & Pagination
+
+### 🚀 Distributed Systems & Infrastructure
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23E74C3C.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🤖 AI / LLM Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/AI_Integrations-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+- LLM API Integration & AI-powered SaaS
+- Prompt & Context Engineering
+- Streaming AI Responses
+- AI Tool / Function Calling
+- Background AI Processing
+- AI-assisted Automation & Workflows
+
+### 🧠 Performance & Optimization
+- ⚡ API & Backend Performance Optimization
+- 🗃️ Database Query & Index Optimization
+- 💾 Caching Strategies & Cache Invalidation
+- 📦 Pagination, Batching & Data Fetching
+- 🔄 Async Processing & Job Queues
+- 🌐 CDN & HTTP Caching Concepts
+- 📉 Reducing Latency & Resource Consumption
+- 📈 Throughput, Scalability & Bottleneck Analysis
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧪 Testing & Developer Tools
+![Playwright](https://img.shields.io/badge/Playwright-%2345BA4.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Itachi7011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Itachi7011&theme=dark&hide_border=false)<br/>
