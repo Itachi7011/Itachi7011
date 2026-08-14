@@ -117,17 +117,6 @@
 
 ---
 
-### 🧩 Engineering Focus
-
-```text
-Frontend Architecture     → React · Next.js · State Management
-Backend Architecture      → Node.js · FastAPI · REST · GraphQL
-Data & Persistence        → PostgreSQL · MongoDB · Redis
-Distributed Systems       → Queues · Workers · Caching · Messaging
-AI Engineering            → LLM APIs · Context · Streaming · Tool Calling
-Infrastructure            → Docker · Kubernetes · CI/CD · Cloud
-Testing & Quality         → Playwright · ESLint · API Testing
-
 
 ## 📊 GitHub Analytics
 
