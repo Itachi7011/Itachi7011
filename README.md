@@ -11,7 +11,7 @@
 **System Design · Distributed Systems · Database Architecture · Performance Optimization · AI Engineering**
 
 🤝 Open to collaborating on interesting **open-source, AI and full-stack projects**.
-
+ 
 
 
 ## 🌐 Socials:
